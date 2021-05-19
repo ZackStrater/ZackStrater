@@ -1,15 +1,27 @@
 ### Hi there 👋
 🔭 I’m currently working on 
+
   Perfect Pitch AI:
-    Using convolutional neural networks to automatically transcribe music
+  Using convolutional neural networks to automatically transcribe music
+  
 🌱 I’m currently learning 
-  Pytorch
+
+  Pytorch (lightning and geometric)
+  
+  Using Cloud computing to train neural nets (AWS/Google Cloud)
+  
+  
 🤔 I’m looking for help with:
+
   Dynamic graph neural networks (pytorch geometric)
+  
   CNN-LSTM networks
+  
 📫 How to reach me: 
-  linkedin: https://www.linkedin.com/in/zack-strater/
-  email: Zack.M.Strater@gmail.com
+
+  LinkedIn: https://www.linkedin.com/in/zack-strater/
+  
+  Email: Zack.M.Strater@gmail.com
 
 
 
