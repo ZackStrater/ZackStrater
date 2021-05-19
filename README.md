@@ -4,6 +4,9 @@
   Perfect Pitch AI:
   Using convolutional neural networks to automatically transcribe music
   
+  https://github.com/ZackStrater/perfect-pitch-ai
+
+  
 🌱 I’m currently learning 
 
   Pytorch (lightning and geometric)
